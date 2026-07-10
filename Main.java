@@ -2,3 +2,8 @@
 // PARTNER NAME: 
 // CS111 SECTION #: 
 // DATE:
+public class Main {
+  public static void Main (String args []){
+    
+  }
+}
